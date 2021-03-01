@@ -1,0 +1,16 @@
+.selected-player {
+  background-color: white;
+  margin-top: 15px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.selected-player h2 {
+  font-size: 26px;
+  font-weight: 700;
+  padding: 10px 0;
+}
+.selected-player h3 {
+  font-size: 22px;
+  font-weight: 700;
+  padding-bottom: 10px;
+}
